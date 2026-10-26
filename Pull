@@ -1,0 +1,4 @@
+cd "C:\Users\bcaro\.gemini\antigravity\scratch\emdr-telehealth-platform"
+git remote add origin https://github.com/<YOUR_GITHUB_USERNAME>/carowcare.git
+git branch -M main
+git push -u origin main
